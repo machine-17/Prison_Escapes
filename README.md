@@ -1,4 +1,4 @@
-# H1 The USA vs India Prison Escapes
+# The USA vs India Prison Escapes
 
 ![alt-text](https://raw.githubusercontent.com/machine-17/Prison_Escapes/master/other/1_bVE1ZeKXbTbb3H5UEuAFAg.jpeg)
 
