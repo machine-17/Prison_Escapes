@@ -1,6 +1,6 @@
 # The USA vs India Prison Escapes
 
-![](https://raw.githubusercontent.com/machine-17/Prison_Escapes/master/other/1_bVE1ZeKXbTbb3H5UEuAFAg.jpeg width="120" height="120")
+<img src="https://raw.githubusercontent.com/machine-17/Prison_Escapes/master/other/1_bVE1ZeKXbTbb3H5UEuAFAg.jpeg" width="250" height="250">
 
 **Summary:**
 
