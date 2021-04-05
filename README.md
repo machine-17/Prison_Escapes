@@ -13,4 +13,4 @@ At the end of 2013, the USA had a whopping 861 incarcerated persons per 100,000 
 from inside prison and about 1/4 of inmates escapees have been re-arrested.
 - The likelihood of seeing an escapee without knowing is less than 1 percent or 2 per 100,000 residents in the USA. Now you can wonder!
 
-[Link to blog post](https://medium.com/@lester17.c/the-usa-vs-india-prison-escapes-8281b3cde2f6)
+[Link to blog post](https://medium.com/@lestergmz/the-usa-vs-india-prison-escapes-8281b3cde2f6)
